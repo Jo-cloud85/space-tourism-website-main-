@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Jo-cloud85/space-tourism-website-main-.git](https://github.com/Jo-cloud85/space-tourism-website-main-.git)
+- Live Site URL: [https://jo-cloud85.github.io/space-tourism-website-main-/](https://jo-cloud85.github.io/space-tourism-website-main-/)
 
 ## My process
 
