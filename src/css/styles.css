@@ -756,7 +756,7 @@ body {
     }
     
     .grid-container--home {
-        padding-bottom: max(6rem, 20vh);
+        /* padding-bottom: max(6rem, 20vh); */
         align-items: end;
         justify-items: start; /* added */
     }
